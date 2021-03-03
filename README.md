@@ -7,6 +7,6 @@
 
 - 🤔 I’m looking for help with **JavaScript**
 
-- 🌱 I’m currently learning **JavaScript ES6, Bootstrap, Jquery, English**
+- 🌱 I’m currently learning **JavaScript ES6, Bootstrap, Jquery, English, Linux**
 
 - 📫 How to reach me **mayanbarrosdasilva@gmail.com**
